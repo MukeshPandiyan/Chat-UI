@@ -13,7 +13,6 @@ body {
   height: 100vh;
 }
 
-/* Chat Container */
 .chat-app {
   width: 360px;
   height: 640px;
@@ -25,7 +24,6 @@ body {
   box-shadow: 0 20px 60px rgba(0,0,0,0.6);
 }
 
-/* Header */
 .chat-header {
   padding: 15px;
   background: #020617;
@@ -54,7 +52,6 @@ body {
   color: #22c55e;
 }
 
-/* Chat Body */
 .chat-body {
   flex: 1;
   padding: 15px;
@@ -64,7 +61,6 @@ body {
   gap: 10px;
 }
 
-/* Messages */
 .message {
   max-width: 75%;
   padding: 10px 14px;
@@ -87,7 +83,6 @@ body {
   border-bottom-right-radius: 4px;
 }
 
-/* Input */
 .chat-input {
   display: flex;
   padding: 12px;
